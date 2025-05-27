@@ -1,4 +1,4 @@
-
+ 
 # Phishing Email Analysis – Binance Spoof Investigation
 
 This project is part of a **Cybersecurity Internship Task** focused on identifying and analyzing phishing emails. The suspicious email reviewed here falsely claimed to be from **Binance**, a well-known cryptocurrency platform.
