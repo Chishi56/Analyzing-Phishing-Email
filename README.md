@@ -27,7 +27,6 @@ This project is part of a **Cybersecurity Internship Task** focused on identifyi
 ##  Tools Used
 
 -  [Email Sample](email/sample-1000.eml)
--  [MXToolbox Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
 -  [Google Admin Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/)
 -  [EML Analyzer - Sublime Security](https://analyzer.sublime.security/)  
 -  [EML Analyzer - Herokuapp](https://eml-analyzer.herokuapp.com/#/)
@@ -72,6 +71,17 @@ This email is a **confirmed phishing attempt**. It uses:
 
 ---
 
-## Project Files Included
+##  Actions Taken
+
+- The email was **reported as phishing** using built-in email security tools.
+- The link was **not clicked**.
+- Full header analysis and link inspection were documented here.
+
+---
+
+##  Screenshots (Attached Separately)
+
+- Phishing email screenshot using Sublime Security
+- Header analysis using Google Admin Toolbox Messageheader and Herokuapp EML Analyzer
 
 
